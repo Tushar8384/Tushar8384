@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Tushar Kumar
 
-<!--
-**Tushar8384/Tushar8384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Backend Developer | Spring Boot | Hibernate | MySQL  
+🎓 Learning Full-Stack Java Development  
+💡 Passionate about building scalable backend applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java, SQL
+- **Backend:** Spring Boot, Spring MVC, Hibernate, JPA
+- **Web:** JSP, Servlets, REST APIs
+- **Database:** MySQL
+- **Tools:** IntelliJ IDEA, Maven, Git, Postman, Tomcat
+
+---
+
+## 📌 Projects
+🔹 **Student Management System**  
+- Spring Boot + Hibernate + MySQL  
+- CRUD REST APIs  
+- Maven based project  
+
+🔹 **REST API using Jersey**  
+- Jersey implementation  
+- Tomcat deployment  
+- JSON based API  
+
+🔹 **JSP + Servlet Web App**  
+- MVC architecture  
+- Form handling & validations  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect with me
+- LinkedIn: *add link later*
+- Email: *your email*
